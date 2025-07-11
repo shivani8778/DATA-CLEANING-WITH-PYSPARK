@@ -31,3 +31,4 @@ Using PySpark in Google Colab combines the advantages of powerful distributed co
 
 In summary, this task demonstrates how PySpark can be used to effectively clean and preprocess data by handling missing values and duplicates. The use of Google Colab makes the process more accessible and portable, allowing users to build and test scalable data workflows directly from the browser without the need for complex local setup.
 
+![Image](https://github.com/user-attachments/assets/ae44b92b-79f5-412b-a220-c6249c9492c1)
